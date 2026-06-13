@@ -1,6 +1,6 @@
 ### Hi, I'm gu 👋
 
-> 白天，设计「人和 AI 怎么一起把活干好」的规则；夜里，造一座把 idea 长成故事的梦工厂。
+> 白天，设计「人 & AI 协作」的规则；夜里，造一座把 idea 长成故事的梦工厂。
 >
 > By day, I design the rules for how humans and AI work together.
 > By night, I run a dream-factory that grows ideas into stories.
