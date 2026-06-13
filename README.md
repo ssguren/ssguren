@@ -5,10 +5,10 @@
 > By day, I design the rules for how humans and AI work together.
 > By night, I run a dream-factory that grows ideas into stories.
 
-#### 进行中 · In progress
+#### 在途 · In progress
 
 🧠 **思考 · Thinking**
-为人机协作设计一套操作系统——从认识论，到流程，到工具。让人掌舵、AI 干活、流程兜底；再把踩过的坑沉淀成文章。
+为人机协作设计思想，从认识论，到流程，到工具。--**识法驭器，流转成章**。
 *An operating system for human–agent collaboration — from epistemology to process to tools. The human steers, the AI works, the process catches the falls. The lessons become essays.*
 
 🌙 **造梦 · Dream Factory**
@@ -27,6 +27,7 @@
 #### 画像 · Portrait
 
 `思想` · `行动` · `执行` · `纪律` · `感性`
+
 *Ideas · Action · Execution · Discipline · Sensibility*
 
 ---
