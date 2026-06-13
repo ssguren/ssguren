@@ -15,7 +15,7 @@
 一座把 idea 长成故事的工厂 —— **织锦藏纬，春秋待缉**。
 *Grows ideas into stories — brocade woven over hidden threads, the years waiting to be stitched whole.*
 
-#### 我信的几条 · What I believe
+#### 信条 · Believe
 
 - **实践出真知，学海无涯** — 知识是一条河：持续生成、持续过期、持续更新。
   *Truth comes from practice; learning has no shore. Knowledge is a river — always forming, always expiring, always renewing.*
