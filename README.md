@@ -24,9 +24,9 @@
 - **留有余地，才有动力** — 话不说死，留白处才长得出意外。
   *Leave room — what stays unfinished is what pulls you forward.*
 
-#### 手艺 · Craft
+#### 画像 · Portrait
 
-`Java` · `DDD` · `Spring AI` · `multi-LLM orchestration` · `ADR-driven design` · `Claude Code power user`
+`思想` · `行动` · `执行` · `纪律` · `感性`
 
 ---
 
