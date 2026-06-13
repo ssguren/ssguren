@@ -27,6 +27,7 @@
 #### 画像 · Portrait
 
 `思想` · `行动` · `执行` · `纪律` · `感性`
+*Ideas · Action · Execution · Discipline · Sensibility*
 
 ---
 
